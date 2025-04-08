@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "array.h": "c",
+        "array_impl.h": "c",
+        "tensor.h": "c",
+        "vector.h": "c"
+    }
+}

@@ -1,0 +1,1 @@
+gcc c_tensor.c -o c_tensor.exe -I. && c_tensor.exe
