@@ -1,1 +1,1 @@
-gcc c_tensor.c -o c_tensor.exe -I. && c_tensor.exe
+gcc c_tensor.c -o build\c_tensor.exe -I. && .\build\c_tensor.exe
